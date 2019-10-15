@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aplicacions>
+    <aplicacio codi="001">
+        <nom>Netflix</nom>
+        <descripcio>Aplicació per veure vídeos</descripcio>
+        <fabricant>netflix</fabricant>
+        <tipus>video</tipus>
+    </aplicacio>
+    <aplicacio codi="002">
+        <nom>Youtube</nom>
+        <descripcio>Aplicació per veure vídeos</descripcio>
+        <fabricant>google</fabricant>
+        <tipus>video</tipus>
+    </aplicacio>
+</aplicacions>
